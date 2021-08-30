@@ -1,0 +1,16 @@
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.exe
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.deps.json
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.runtimeconfig.json
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.runtimeconfig.dev.json
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.dll
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\ref\PadraoFactory.dll
+D:\Projetos\PadraoFactory\bin\Debug\net5.0\PadraoFactory.pdb
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.csproj.AssemblyReference.cache
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.AssemblyInfoInputs.cache
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.AssemblyInfo.cs
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.csproj.CoreCompileInputs.cache
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.dll
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\ref\PadraoFactory.dll
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.pdb
+D:\Projetos\PadraoFactory\obj\Debug\net5.0\PadraoFactory.genruntimeconfig.cache
